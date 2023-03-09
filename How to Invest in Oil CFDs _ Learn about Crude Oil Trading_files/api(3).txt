@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkiforex_en_2020=self.webpackChunkiforex_en_2020||[]).push([[729],{3385:(e,n,r)=>{var s=r(9755),u=r.n(s);window.jQuery=window.$=u()}},e=>{e.O(0,[755],(()=>{return n=3385,e(e.s=n);var n}));e.O()}]);
+//# sourceMappingURL=jquery.b0bcb06d5e2b0e735d09.js.map
